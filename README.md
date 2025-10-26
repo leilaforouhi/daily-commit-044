@@ -1,4 +1,4 @@
-def replace_word(text, old, new):
+def replace_word(text, old, ne):
     return text.replace(old, new)
 
 if __name__ == "__main__":
